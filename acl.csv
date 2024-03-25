@@ -1,0 +1,6 @@
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","CentralAccessPolicyId","CentralAccessPolicyName","Path","Owner","Group","Access","Sddl","AccessToString","AuditToString","AccessRightType","AccessRuleType","AuditRuleType","AreAccessRulesProtected","AreAuditRulesProtected","AreAccessRulesCanonical","AreAuditRulesCanonical"
+"Microsoft.PowerShell.Core\FileSystem::C:\Different_Directory","Microsoft.PowerShell.Core\FileSystem::C:\","Different_Directory","C","Microsoft.PowerShell.Core\FileSystem",,,"Microsoft.PowerShell.Core\FileSystem::C:\Different_Directory","BUILTIN\Administrators","LOBO\ivant","System.Security.AccessControl.AuthorizationRuleCollection","O:BAG:S-1-5-21-838638317-1147263483-3117514387-1001D:AI(A;OICIID;FA;;;BA)(A;OICIID;FA;;;SY)(A;OICIID;0x1200a9;;;BU)(A;ID;0x1301bf;;;AU)(A;OICIIOID;SDGXGWGR;;;AU)","BUILTIN\Administrators Allow  FullControl
+NT AUTHORITY\SYSTEM Allow  FullControl
+BUILTIN\Users Allow  ReadAndExecute, Synchronize
+NT AUTHORITY\Authenticated Users Allow  Modify, Synchronize
+NT AUTHORITY\Authenticated Users Allow  -536805376","","System.Security.AccessControl.FileSystemRights","System.Security.AccessControl.FileSystemAccessRule","System.Security.AccessControl.FileSystemAuditRule","False","False","True","True"
